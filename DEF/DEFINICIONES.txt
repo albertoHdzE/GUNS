@@ -1,0 +1,12 @@
+IR_POR_MADERA1(quien)
+IR_POR_MADERA2(quien)
+IR_POR_PIEDRA1(quien)
+IR_POR_PIEDRA2(quien)
+IR_POR_METAL1(quien)
+IR_POR_METAL2(quien)
+
+ATACAR(con_que,quien,a_quien)
+
+CONSTRUIR(quien,con_que)
+
+REFUGIARSE(quien)

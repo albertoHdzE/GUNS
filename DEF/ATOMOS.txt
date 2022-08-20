@@ -1,0 +1,190 @@
+*** ATOMO #1 ***
+SR       : 1
+VR       : 0
+OD       : 0
+PLANTILLA: Estar_Ocupado
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+ATACAR_CON_METAL(BOMBER_ENEMIGO,BOMBER)
+IR_POR_METAL1(ESPIA_ENEMIGO)
+
+
+*** ATOMO #2 ***
+SR       : 1
+VR       : 0
+OD       : 0
+PLANTILLA: Estar_Ocupado
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+ATACAR_CON_METAL(BOMBER_ENEMIGO,BOMBER)
+IR_POR_METAL1(ESPIA_ENEMIGO)
+
+
+*** ATOMO #3 ***
+SR       : 1
+VR       : 0
+OD       : 1
+PLANTILLA: Buen_Desem
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+ATACAR_CON_METAL(BOMBER_ENEMIGO,BOMBER)
+IR_POR_METAL1(ESPIA_ENEMIGO)
+
+
+*** ATOMO #4 ***
+SR       : 0
+VR       : 0
+OD       : 1
+PLANTILLA: Atacando
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+ATACAR_CON_METAL(ESPIA_ENEMIGO,BOMBER)
+
+
+*** ATOMO #5 ***
+SR       : 0
+VR       : 0
+OD       : 1
+PLANTILLA: Atacando
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+REFUGIARSE(BOMBER_ENEMIGO)
+ATACAR_CON_MADERA(ESPIA_ENEMIGO,ESPIA)
+ATACAR_CON_METAL(SOLDADO_ENEMIGO,BOMBER)
+
+
+*** ATOMO #6 ***
+SR       : 0
+VR       : 0
+OD       : 1
+PLANTILLA: Atacando
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+REFUGIARSE(BOMBER_ENEMIGO)
+ATACAR_CON_MADERA(ESPIA_ENEMIGO,ESPIA)
+ATACAR_CON_METAL(SOLDADO_ENEMIGO,BOMBER)
+
+
+*** ATOMO #7 ***
+SR       : 1
+VR       : 0
+OD       : 0
+PLANTILLA: Estar_Ocupado
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+CONSTRUIR_CON_MADERA(BOMBER_ENEMIGO)
+CONSTRUIR_CON_PIEDRA(ESPIA_ENEMIGO)
+IR_POR_PIEDRA2(SOLDADO_ENEMIGO)
+
+
+*** ATOMO #8 ***
+SR       : 1
+VR       : 0
+OD       : 0
+PLANTILLA: Estar_Ocupado
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+CONSTRUIR_CON_MADERA(BOMBER_ENEMIGO)
+CONSTRUIR_CON_PIEDRA(ESPIA_ENEMIGO)
+IR_POR_PIEDRA2(SOLDADO_ENEMIGO)
+
+
+*** ATOMO #9 ***
+SR       : 1
+VR       : 0
+OD       : 0
+PLANTILLA: Estar_Ocupado
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+CONSTRUIR_CON_MADERA(BOMBER_ENEMIGO)
+CONSTRUIR_CON_PIEDRA(ESPIA_ENEMIGO)
+IR_POR_PIEDRA2(SOLDADO_ENEMIGO)
+
+
+*** ATOMO #10 ***
+SR       : 1
+VR       : 0
+OD       : 0
+PLANTILLA: Estar_Ocupado
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+IR_POR_METAL1(SOLDADO_ENEMIGO)
+IR_POR_METAL1(ESPIA_ENEMIGO)
+CONSTRUIR_CON_METAL(BOMBER_ENEMIGO)
+
+
+*** ATOMO #11 ***
+SR       : 1
+VR       : 0
+OD       : 0
+PLANTILLA: Estar_Ocupado
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+IR_POR_METAL1(SOLDADO_ENEMIGO)
+IR_POR_METAL1(ESPIA_ENEMIGO)
+CONSTRUIR_CON_METAL(BOMBER_ENEMIGO)
+
+
+*** ATOMO #12 ***
+SR       : 1
+VR       : 0
+OD       : 0
+PLANTILLA: Estar_Ocupado
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+IR_POR_METAL1(SOLDADO_ENEMIGO)
+IR_POR_METAL1(ESPIA_ENEMIGO)
+CONSTRUIR_CON_METAL(BOMBER_ENEMIGO)
+
+
+*** ATOMO #13 ***
+SR       : 1
+VR       : 0
+OD       : 0
+PLANTILLA: Estar_Ocupado
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+IR_POR_PIEDRA1(SOLDADO_ENEMIGO)
+ATACAR_CON_PIEDRA(BOMBER_ENEMIGO,BOMBER)
+IR_POR_PIEDRA1(ESPIA_ENEMIGO)
+
+
+*** ATOMO #14 ***
+SR       : 1
+VR       : 0
+OD       : 0
+PLANTILLA: Estar_Ocupado
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+IR_POR_PIEDRA1(SOLDADO_ENEMIGO)
+ATACAR_CON_PIEDRA(BOMBER_ENEMIGO,BOMBER)
+IR_POR_PIEDRA1(ESPIA_ENEMIGO)
+
+
+*** ATOMO #15 ***
+SR       : 1
+VR       : 0
+OD       : 0
+PLANTILLA: Estar_Ocupado
+ -------------------------
+ --ACCIONES RELACIONADAS--
+ -------------------------
+IR_POR_PIEDRA1(SOLDADO_ENEMIGO)
+ATACAR_CON_PIEDRA(BOMBER_ENEMIGO,BOMBER)
+IR_POR_PIEDRA1(ESPIA_ENEMIGO)
+
+

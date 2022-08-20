@@ -1,0 +1,27 @@
+***  DESCRIPCIÓN GENERAL DEL ESTADO GENERAL DEL JUEGO  ***
+============================================================
+-- ESTADO DEL SOLDADO --
+SR       : 0
+OD       : 0
+VR       : 0
+PLANTILLA: Refugiado
+----------------------------------------------
+-- ESTADO DEL BOMBARDERO --
+SR       : 0
+OD       : 0
+VR       : 0
+PLANTILLA: Refugiado
+----------------------------------------------
+-- ESTADO DEL ESPIA --
+SR       : 0
+OD       : 0
+VR       : 0
+PLANTILLA: Refugiado
+----------------------------------------------
+-- ESTADO DEL BASE --
+SR       : 0
+VR       : 0
+----------------------------------------------
+-- ESTADO DEL REFUGIO --
+SR       : 0
+VR       : 0
