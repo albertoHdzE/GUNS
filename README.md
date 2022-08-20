@@ -5,3 +5,5 @@
 
 Guns it’s a video game which, using this model of the creativity process as artificial intelligence implementation, tries to win a match against a human player in a strategy video game style (RTS or Real Time Strategy). At running time, the A.I. build a game strategy using previous experience collected of a experimentation phase with human players, whose information was processed and saved in text files.
 Guns then is a dynamic environment whose updates adapts  and control a team composed by 3 different agents with different and specific features in order to win the match.
+
+![](https://github.com/albertoHdzE/GUNS/blob/main/IMAGES/interface.png)
